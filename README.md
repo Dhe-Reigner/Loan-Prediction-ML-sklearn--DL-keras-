@@ -120,6 +120,7 @@ jupyter notebook
 
 📁 Project Structure
 📦 loan-prediction-ml-dl
+```
 │
 ├── data/
 │   ├── train.csv
@@ -136,4 +137,19 @@ jupyter notebook
 ├── train_dl.py
 ├── requirements.txt
 └── README.md
+```
+🤝 Contributions
 
+Pull requests are welcome.
+For major changes, please open an issue first to discuss what you would like to change.
+
+📜 License
+
+MIT License.
+
+⭐ Support & Inspiration
+
+If this project helped you, kindly star the repository!
+
+⭐ Star this repo
+📣 Follow for more ML + AI projects
