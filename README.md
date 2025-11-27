@@ -117,3 +117,23 @@ pip install -r requirements.txt
 
 Run Notebook
 jupyter notebook
+
+📁 Project Structure
+📦 loan-prediction-ml-dl
+│
+├── data/
+│   ├── train.csv
+│   └── test.csv
+│
+├── notebooks/
+│   └── Loan_Prediction_ML_DL.ipynb
+│
+├── models/
+│   ├── ml_model.pkl
+│   └── dl_model.h5
+│
+├── train_ml.py
+├── train_dl.py
+├── requirements.txt
+└── README.md
+
