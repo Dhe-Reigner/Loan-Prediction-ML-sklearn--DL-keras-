@@ -110,3 +110,10 @@ Jupyter Notebook
 
 Pickle for model saving
 
+
+🧪 How to Run Locally
+Install Dependencies
+pip install -r requirements.txt
+
+Run Notebook
+jupyter notebook
