@@ -78,3 +78,18 @@ model = Sequential([
     Dense(16, activation='relu'),
     Dense(1, activation='sigmoid')
 ])
+
+
+Optimizer: Adam
+Loss: Binary Crossentropy
+Metrics: Accuracy, AUC
+
+📈 Model Performance
+
+You can add your final results here, for example:
+
+Random Forest: 82% accuracy
+
+XGBoost: 85% accuracy
+
+Deep Learning Model: 88% accuracy
