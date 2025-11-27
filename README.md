@@ -93,3 +93,20 @@ Random Forest: 82% accuracy
 XGBoost: 85% accuracy
 
 Deep Learning Model: 88% accuracy
+```
+🛠 Tech Stack
+
+Python 3.x
+
+Scikit-learn
+
+Pandas & NumPy
+
+Matplotlib / Seaborn
+
+TensorFlow / Keras
+
+Jupyter Notebook
+
+Pickle for model saving
+
